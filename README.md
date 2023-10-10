@@ -1,3 +1,5 @@
+This repository was created to conduct midterm exams and was taken from https://github.com/android/sunflower
+
 # Android Sunflower with Compose
 
 A gardening app illustrating Android development best practices with migrating a View-based app to
